@@ -1,6 +1,4 @@
- Hi there 👋
- 
- Soy Javi Oviedo, un argentino entusiasta por la tecnología, las criptomonedas y Web3. Soy una persona curiosa que se interesa sobre cómo las nuevas tecnologías, y en especial la blockchain y las finanzas descentralizadas, pueden cambiar la vida de las personas.
+Soy Javi Oviedo, un argentino entusiasta por la tecnología, las criptomonedas y Web3. Soy una persona curiosa que se interesa sobre cómo las nuevas tecnologías, y en especial la blockchain y las finanzas descentralizadas, pueden cambiar la vida de las personas.
 
 # ✍️Sobre mí
 
