@@ -1,4 +1,4 @@
-#¡Hola! Soy Javi Oviedo.
+# ¡Hola! Soy Javi Oviedo.
 
 Un apasionado por la programación y la tecnología. Busco mi primer empleo en una empresa innovadora que me permita poner en práctica mis habilidades y seguir aprendiendo. Mi experiencia en gestión financiera y atención al cliente me ha enseñado la importancia de trabajar en equipo y de brindar un excelente servicio al cliente, lo que creo que será valioso en mi carrera como desarrollador. Me encantaría formar parte de un equipo comprometido y colaborativo que comparta mi entusiasmo por la tecnología.
 
