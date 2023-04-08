@@ -43,7 +43,7 @@ Yanapay fue un emprendimiento que llevé a cabo junto a 3 socios. El core del ne
 
 # 🛠 Herramientas
 
-### 🌐 **Lenguajes de Programación**
+### 🌐 **Lenguajes de Programación - Frameworks**
 
  💻 HTML Y CSS                                                       📙  Bootstrap - Saas - Tailwind
 
@@ -60,6 +60,7 @@ Yanapay fue un emprendimiento que llevé a cabo junto a 3 socios. El core del ne
 - Visual Studio Code
 - Intellij IDEA
 - IDLE (Python)
+- Remix(Ethereum-Solidity)
 - Git
 - Github
 
