@@ -153,6 +153,10 @@ Basic JavaScript, ES6, Regular Expressions, Debugging, basic Data Structures, Ba
 ### 🏷️****Data Visualization - Free Code Camp (2022)****
 🏅[https://www.freecodecamp.org/certification/Javiov/data-visualization](https://www.freecodecamp.org/certification/Javiov/data-visualization)
 
+### 🏷️Chainlink Bootcamp - Chainlink - (2023)****
+       **Desarrollo en Solidity usando Chainlink y Hardhat**
+       
+
 ### 🏷️**FullStack Python - Programa “Codo a Codo”**
 
       -  **Gobierno ciudad de Buenos Aires (Actualmente) -**
@@ -160,6 +164,8 @@ Basic JavaScript, ES6, Regular Expressions, Debugging, basic Data Structures, Ba
 ### 🏷️Python FullStack Developer - Digital Nao -
 
       **- Universidad Tecmilenio,Mexico (Actualmente)**
+      
+      
 
 ---
 
