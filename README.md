@@ -22,19 +22,25 @@ El aprendizaje y la mejora continua están en el corazón de todo lo que hago, m
 
 # 📁Experiencia
 
-## White Climatización S.R.L - Emprendedor
+## Tecnico y operaciones - Zona Litoral - Coca-cola Andina 
 
 ***2005 - hoy***
 
+Colaboracion,Desarrollo y mantenimiento de Aplicación mobile "Cooler Manager".
+
+
+## White Climatización S.R.L - Emprendedor
+
+***2009 - hoy***
+
 White Climatización es una empresa que brinda servicio técnico de refrigeración a terceros, entre ellos a Coca-Cola y a diferentes clientes locales.
-
-Mis tareas incluyen una visión 360 de la compañía y el negocio, dirariamente me encargo de tareas administrativas, del trato con clientes y proveedores así como también del trato con mis empleados.
-
-Lidero la gestión financiera y superviso el proceso de atención al cliente
-para brindar una excelente experiencia. Cumplo con los reportes y
-requisitos de Coca-Cola y me enfoco en mejorar la calidad. Además,
-optimizo el seguimiento del stock con mi habilidad en manejo de bases de
-datos.
+🏷Como líder en Gestión Financiera y Operaciones, me encargo de supervisar
+y coordinar procesos para brindar una experiencia excepcional al cliente.
+Además, cumplo con los requisitos y reportes establecidos por Coca-Cola,
+mientras me enfoco en mejorar continuamente la calidad de los productos y
+servicios ofrecidos. Además, gestiono y coordino todas las actividades
+necesarias para producir y entregar los productos y servicios de la empresa
+de manera eficiente.
 
 ## Yanapay - Emprendedor
 
