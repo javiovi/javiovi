@@ -22,12 +22,12 @@ El aprendizaje y la mejora continua están en el corazón de todo lo que hago, m
 
 # 📁Experiencia
 
-## Tecnico y operaciones - Zona Litoral - Coca-cola Andina 
+##Servicio Tecnico y operaciones - Zona Litoral - Coca-cola Andina 
 
 ***2005 - hoy***
 
-Colaboracion,Desarrollo y mantenimiento de Aplicación mobile "Cooler Manager".
-
+Colaboracion,Desarrollo y mantenimiento de Aplicación mobile "Cooler Manager".(Js - React)
+***2018***
 
 ## White Climatización S.R.L - Emprendedor
 
@@ -141,6 +141,10 @@ Basic JavaScript, ES6, Regular Expressions, Debugging, basic Data Structures, Ba
 ✅Java 
 [diplomas_05a947b8-88e8-4ec7-83dc-6453114d3ca7.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25535b2e-0df7-47c0-80f8-fcad2e41a29d/diplomas_05a947b8-88e8-4ec7-83dc-6453114d3ca7.pdf)
 
+✅Spring 
+ 
+✅SQL
+
 ⏳*React JS. (en Proceso)*
 
 ### 🏷️****Scientific Computing with Python - FreeCodeCamp (2022)****
@@ -173,7 +177,8 @@ Basic JavaScript, ES6, Regular Expressions, Debugging, basic Data Structures, Ba
       **- Universidad Tecmilenio,Mexico (Actualmente)**
       
       
-
+### 🏷️ Ciclo Basico(CBC) - Base de datos con SQL server
+             **- Activa University**
 ---
 
 # 🖼️ Mi colección de POAPs
