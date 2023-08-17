@@ -145,7 +145,7 @@ Basic JavaScript, ES6, Regular Expressions, Debugging, basic Data Structures, Ba
  
 ✅SQL
 
-⏳*React JS. (en Proceso)*
+✅*React JS*
 
 ### 🏷️****Scientific Computing with Python - FreeCodeCamp (2022)****
 🏅[https://www.freecodecamp.org/espanol/certification/Javiov/scientific-computing-with-python-v7](https://www.freecodecamp.org/espanol/certification/Javiov/scientific-computing-with-python-v7)
