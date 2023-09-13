@@ -53,13 +53,13 @@ Yanapay fue un emprendimiento que llevé a cabo junto a 3 socios. El core del ne
 
  💻 HTML Y CSS                                                       📙  Bootstrap - Saas - Tailwind
 
-⚙️ JavaScript                                                            📙 JQuery - Node.js
+⚙️ JavaScript                                                        📙 JQuery - Node.js
 
-🐍 Python                                                                📙 Django
+🐍 Python                                                            📙 Django
 
 ☕ Java
 
-⚛️ React
+⚛️ React Js and Native
 
 ### 💻 Herramientas de Desarrollo
 
