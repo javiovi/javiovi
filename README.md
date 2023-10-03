@@ -22,7 +22,7 @@ El aprendizaje y la mejora continua están en el corazón de todo lo que hago, m
 
 # 📁Experiencia
 
-##Actualmente
+***2021 - Actualidad***
 
 ***Me desempeño como desarrollador front-end de forma freelance trabajando con
 diferentes clientes.
