@@ -22,10 +22,11 @@ El aprendizaje y la mejora continua están en el corazón de todo lo que hago, m
 
 # 📁Experiencia
 
-***Actualmente
-##Actualmente, me desempeño como desarrollador front-end de forma freelance trabajando con
+##Actualmente
+
+***Me desempeño como desarrollador front-end de forma freelance trabajando con
 diferentes clientes.
-Tecnologías utilizadas: 💛JavaScript (⚛️React Js / Native) - 🐍Python (Flask)
+Tecnologías utilizadas: 💛JavaScript (⚛️React Js / Native) - 🐍Python (Flask)***
 
 
 ##Servicio Tecnico y operaciones - Zona Litoral - Coca-cola Andina 
