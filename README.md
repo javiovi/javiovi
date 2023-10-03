@@ -22,16 +22,22 @@ El aprendizaje y la mejora continua están en el corazón de todo lo que hago, m
 
 # 📁Experiencia
 
+***Actualmente
+##Actualmente, me desempeño como desarrollador front-end de forma freelance trabajando con
+diferentes clientes.
+Tecnologías utilizadas: 💛JavaScript (⚛️React Js / Native) - 🐍Python (Flask)
+
+
 ##Servicio Tecnico y operaciones - Zona Litoral - Coca-cola Andina 
 
-***2005 - hoy***
+***2005 - 2022***
 
 Colaboracion,Desarrollo y mantenimiento de Aplicación mobile "Cooler Manager".(Js - React)
 ***2018***
 
 ## White Climatización S.R.L - Emprendedor
 
-***2009 - hoy***
+***2009 - 2023***
 
 White Climatización es una empresa que brinda servicio técnico de refrigeración a terceros, entre ellos a Coca-Cola y a diferentes clientes locales.
 🏷Como líder en Gestión Financiera y Operaciones, me encargo de supervisar
