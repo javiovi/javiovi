@@ -22,6 +22,11 @@ El aprendizaje y la mejora continua están en el corazón de todo lo que hago, m
 
 # 📁Experiencia
 
+***2023 - Actualidad***
+***Axyoma Global
+Desarrollo Front-end Web y Mobile.
+HTML-CSS-JS(React - Next JS) 
+
 ***2021 - Actualidad***
 
 ***Me desempeño como desarrollador front-end de forma freelance trabajando con
