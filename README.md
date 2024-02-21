@@ -23,7 +23,8 @@ El aprendizaje y la mejora continua están en el corazón de todo lo que hago, m
 # 📁Experiencia
 
 ***2023 - Actualidad***
-***Axyoma Global
+
+Axyoma Global
 Desarrollo Front-end Web y Mobile.
 HTML-CSS-JS(React - Next JS) 
 
