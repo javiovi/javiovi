@@ -4,6 +4,8 @@ A passionate about programming and technology. My experience in financial manage
 
 # ☎️ Contact Information
 
+🔗**Website:** [https://www.jobuilds.xyz/](https://www.jobuilds.xyz/)
+
 📧 **E-mail:** javio.dev@gmail.com
 
 🐦 **Twitter: @javibufon**
@@ -11,8 +13,6 @@ A passionate about programming and technology. My experience in financial manage
 🔗 **Linkedin:** [https://www.linkedin.com/in/javier-oviedo-3b536222a/](https://www.linkedin.com/in/javier-oviedo-3b536222a/)
 
 📲 **Telegram:** [https://t.me/Javiov](https://t.me/Javiov)
-
-😺 **GitHub:** [https://www.github.com/javiovi](https://app.poap.xyz/scan/0xe472402ccc81a849594b591a522a69abfe5b0713)
 
  🕹️**Discord:** javiov#1942
 
